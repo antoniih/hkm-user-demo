@@ -13,6 +13,7 @@ More references:
 - [Passwordless Authentication With OTP](https://medium.com/profusion-engineering/keycloak-passwordless-authentication-550ca095c0bf)
 - [Server Administration Guide](https://www.keycloak.org/docs/latest/server_admin/)
 - [Starting Keycloak Docker Container](https://www.keycloak.org/getting-started/getting-started-docker)
+- [Example on WordPress with Keycloak](https://plugins.miniorange.com/keycloak-single-sign-on-wordpress-sso-oauth-openid-connect)
 
 
 ### Start this demo

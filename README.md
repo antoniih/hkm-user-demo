@@ -12,6 +12,7 @@ More references:
 - [Another More Realistic Keycloak React Quick Implementation Example](https://blog.logrocket.com/implement-keycloak-authentication-react/)
 - [Passwordless Authentication With OTP](https://medium.com/profusion-engineering/keycloak-passwordless-authentication-550ca095c0bf)
 - [Server Administration Guide](https://www.keycloak.org/docs/latest/server_admin/)
+- [Starting Keycloak Docker Container](https://www.keycloak.org/getting-started/getting-started-docker)
 
 
 ### Start this demo

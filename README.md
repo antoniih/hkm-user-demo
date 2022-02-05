@@ -35,6 +35,26 @@ docker-compose up
 [MailSlurper](http://127.0.0.1:8081)
 
 
+### Basic Setup
+
+#### Add Realm for Demo
+![Add Realm](resources/add-realm.png)
+
+#### Add Client for React Demo Logon Page
+![Add Client](resources/add-client.png)
+
+*Root URL*: ***http://localhost:8964***
+![React Client](resources/my-react-client.png)
+
+![Set User Registration](resources/set-user-reg.png)
+
+#### Setup Local SMTP Server for New Client
+![Set SMTP](resources/set-smtp.png)
+*Host*: `mailslurper`
+*Port*: `2500`
+*From*: ***(any email address)***
+
+
 ### Products in this demo
 
 - [Keycloak](https://www.keycloak.org)
